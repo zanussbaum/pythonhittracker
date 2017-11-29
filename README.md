@@ -10,5 +10,6 @@ Download the python file and upload it to your preferred environment. I used it 
 # Prerequisites 
 
 You must have a verision of Python installed on your computer. You can find the latest version here: https://www.python.org/downloads/
+
 If you'd like, download the Anaconda environment here: https://www.anaconda.com/download/
 

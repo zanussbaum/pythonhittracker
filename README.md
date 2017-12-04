@@ -13,3 +13,12 @@ You must have a verision of Python installed on your computer. You can find the 
 
 If you'd like, download the Anaconda environment here: https://www.anaconda.com/download/
 
+# Downloading
+
+Download the Python file and upload it to your preferred environment and start testing!
+
+# Testing
+
+Test different values of exit velocity and launch angle and see the effects of it on the total distance.
+
+Note: The graph's axes are in meters, however the program will convert it to feet when printing the final distance. 
